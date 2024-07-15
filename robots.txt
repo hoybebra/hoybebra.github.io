@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hoybebra.github.io/sitemap
+Sitemap: https://hoybebra.github.io/app/sitemap
+Sitemap: https://hoybebra.github.io/assets/sitemap
+Sitemap: https://hoybebra.github.io/css/sitemap
+Sitemap: https://hoybebra.github.io/includes/sitemap
+Sitemap: https://hoybebra.github.io/item/sitemap
+Sitemap: https://hoybebra.github.io/src/sitemap
